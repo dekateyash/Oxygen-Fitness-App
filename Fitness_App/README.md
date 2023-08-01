@@ -1,4 +1,4 @@
-# Desktop Fitness App
+# Oxygen Fitness App
 
 Looking for a comprehensive fitness guide all in one place? Look no further than our web app! 
 
